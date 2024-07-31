@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1722467847310,
+    "name": "Anna",
+    "age": "24",
+    "stress level": "Moderate",
+    "stress factors": [
+      "Health issues",
+      "Family responsibilities"
+    ],
+    "activities to manage stress": [
+      "Engaging in hobbies",
+      "Watching TV or movies"
+    ],
+    "frequency": "Once a week"
+  },
+  {
+    "id": 1722468584593,
+    "name": "Alison",
+    "age": "30",
+    "stress level": "Moderate",
+    "stress factors": [
+      "Financial concerns",
+      "Health issues"
+    ],
+    "activities to manage stress": [
+      "Spending time with friends and family",
+      "Engaging in hobbies"
+    ],
+    "frequency": "A few times a month"
+  }
+]

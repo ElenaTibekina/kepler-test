@@ -1,0 +1,56 @@
+[
+  {
+    "step number": 1,
+    "title": "Enter your name",
+    "name": "name",
+    "question": {
+      "type": "input",
+      "placeholder": "John Doe"
+    }
+  },
+  {
+    "step number": 2,
+    "title": "What is your age?",
+    "name": "age",
+    "question": {
+      "type": "numeric",
+      "placeholder": "25"
+    }
+  },
+  {
+    "step number": 3,
+    "title": "How would you rate your overall stress level?",
+    "name": "stress level",
+    "question": {
+      "type": "single-choice",
+      "options": ["Very low", "Low", "Moderate", "High", "Very high"]
+    }
+  },
+  {
+    "step number": 4,
+    "title": "What factors contribute to your stress?",
+    "name": "stress factors",
+    "question": {
+      "type": "multi-choice",
+      "options": ["Work-related issues", "Personal relationships", "Financial concerns", "Health issues", "Family responsibilities", "Other"]
+    }
+  },
+  {
+    "step number": 5,
+    "title": "What activities help you manage stress?",
+    "name": "activities to manage stress",
+    "question": {
+      "type": "multi-choice",
+      "options": ["Exercise", "Meditation or mindfulness", "Spending time with friends and family", "Engaging in hobbies", "Watching TV or movies", "Reading"]
+    }
+  },
+  {
+    "step number": 6,
+    "title": "How often do you engage in stress-reducing activities?",
+    "name": "frequency",
+    "question": {
+      "type": "single-choice",
+      "options": ["Daily", "Several times a week", "Once a week", "A few times a month", "Rarely"]
+    }
+  }
+]

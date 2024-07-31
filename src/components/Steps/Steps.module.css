@@ -1,0 +1,38 @@
+.stepsContainer {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.stepsHeader {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.stepsInput {
+    display: flex;
+    flex-direction: column;
+}
+
+.inputTitle {
+    font-weight: 600;
+}
+
+.numericInput {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.stepsCounter {
+    margin-bottom: 20px;
+}
+
+.buttonsContainer {
+    display: flex;
+    gap: 5px;
+    margin-top: 15px;
+}
